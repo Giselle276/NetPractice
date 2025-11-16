@@ -43,22 +43,23 @@ LEVEL 9
 <img width="900" height="137" alt="image" src="https://github.com/user-attachments/assets/2f8ed1bd-9021-45d1-9174-286aeda90658" />
 <img width="900" height="944" alt="image" src="https://github.com/user-attachments/assets/b8332d84-a017-472c-b0c3-de86c97417f3" />
 
-📘 Level 10 – Topología de Red y Enrutamiento
-
-Este ejercicio consiste en analizar y comprender una topología de red formada por varios routers, hosts y subredes interconectadas. El objetivo es interpretar cómo fluye la información entre los distintos dispositivos y cómo las rutas configuradas permiten que cada red pueda comunicarse con las demás y con Internet.
-
-🔍 ¿Qué incluye la topología?
-
-Un enlace a Internet que se conecta al router principal (R1).
-
-Un switch que distribuye la red interna para los hosts H1 y H2.
-
-Un segundo router (R2) que administra dos subredes internas donde se encuentran H3 y H4.
-
-Tablas de rutas en cada router y host para determinar el camino de los paquetes.
-<img width="900" height="164" alt="image" src="https://github.com/user-attachments/assets/b62379e3-8fd3-4018-b21c-7c0f698ee5a0" />
-<img width="900" height="938" alt="image" src="https://github.com/user-attachments/assets/1bef5de7-5058-467d-9209-53d7198941e2" />
-
+<h2 data-start="2846" data-end="2894">📘 Level 10 &ndash; Topolog&iacute;a de Red y Enrutamiento</h2>
+<p data-start="2896" data-end="3213">Este ejercicio consiste en analizar y comprender una topolog&iacute;a de red formada por varios routers, hosts y subredes interconectadas. El objetivo es interpretar c&oacute;mo fluye la informaci&oacute;n entre los distintos dispositivos y c&oacute;mo las rutas configuradas permiten que cada red pueda comunicarse con las dem&aacute;s y con Internet.</p>
+<h3 data-start="3215" data-end="3248">🔍 &iquest;Qu&eacute; incluye la topolog&iacute;a?</h3>
+<ul data-start="3250" data-end="3561">
+    <li data-start="3250" data-end="3315">
+        <p data-start="3252" data-end="3315">Un enlace a Internet que se conecta al router principal (R1).</p>
+    </li>
+    <li data-start="3316" data-end="3383">
+        <p data-start="3318" data-end="3383">Un switch que distribuye la red interna para los hosts H1 y H2.</p>
+    </li>
+    <li data-start="3384" data-end="3476">
+        <p data-start="3386" data-end="3476">Un segundo router (R2) que administra dos subredes internas donde se encuentran H3 y H4.</p>
+    </li>
+    <li data-start="3477" data-end="3561">
+        <p data-start="3479" data-end="3561">Tablas de rutas en cada router y host para determinar el camino de los paquetes.</p>
+    </li>
+</ul>
 
 
 
