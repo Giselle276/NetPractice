@@ -1,7 +1,6 @@
 # NetPractice
 
 <p data-start="0" data-end="294">Este proyecto te ense&ntilde;a <strong data-start="163" data-end="204">los fundamentos de redes (networking)</strong> a trav&eacute;s de ejercicios pr&aacute;cticos de configuraci&oacute;n de IPs, m&aacute;scaras de subred y routing.</p>
-<br>
 <h2 data-start="301" data-end="330">🧠 Objetivo de NetPractice</h2>
 <p data-start="331" data-end="432">El objetivo es entender <strong data-start="355" data-end="403">c&oacute;mo las m&aacute;quinas se comunican en una red IP</strong>, configurando correctamente:</p>
 <ul data-start="433" data-end="518">
@@ -76,6 +75,8 @@
 <h3 data-start="1462" data-end="1499">3. <strong data-start="1469" data-end="1499">Puerta de Enlace (Gateway)</strong></h3>
 <p data-start="1500" data-end="1634">Es la direcci&oacute;n IP del <strong data-start="1523" data-end="1533">router</strong> que conecta una red con otra.<br data-start="1563" data-end="1566" /> Los dispositivos la usan para enviar paquetes fuera de su red local.</p>
 <p><strong>Ejemplo:</strong><br data-start="1646" data-end="1649" /> Si PC1 (192.168.1.2) quiere hablar con PC2 (10.0.0.3),<br data-start="1705" data-end="1708" /> usar&aacute; su <strong data-start="1719" data-end="1744">gateway (192.168.1.1)</strong> para que el router reenv&iacute;e los paquetes.</p>
+<h3 data-start="1792" data-end="1810">4. <strong data-start="1799" data-end="1810">Routing</strong></h3>
+<p data-start="1811" data-end="1919">Los routers mantienen una <strong data-start="1837" data-end="1855">tabla de rutas</strong> indicando hacia d&oacute;nde enviar los paquetes seg&uacute;n la red destino.</p>
 
 LEVEL 1
 
